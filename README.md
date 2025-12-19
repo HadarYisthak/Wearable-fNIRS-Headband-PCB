@@ -1,7 +1,7 @@
 # Wearable-fNIRS-Headband-PCB
 End-to-end design and implementation of a 4-layer, high-density PCB for a wearable functional Near-Infrared Spectroscopy (fNIRS) system. The module is engineered for high-precision neural activity monitoring by measuring hemodynamic changes via multi-wavelength optical sensing.
 
-![fNIRS 3D Render](Assets/PCB Front View.png)
+![fNIRS 3D Render](Assets/PCB_Front_View.png)
 
 **Engineering Design Considerations:**
 •	**Component Selection & Specification:** Conducted rigorous datasheet analysis to select ultra-low noise, precision Operational Amplifiers with minimal Input Bias Current . These parameters were critical for implementing the high-gain Transimpedance Amplifier (TIA) stages required to convert low-level photodiode currents into measurable voltage signals.
