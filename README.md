@@ -18,6 +18,8 @@ o	Optical-to-Electrical Optimization: Calculated and implemented optimal source-
 
 o **Parasitic Minimization:** Executed tight placement of feedback networks in immediate proximity to the Op-Amp inverting inputs to minimize parasitic capacitance and prevent stability issues or increased noise floors.
 
+![fNIRS 3D Render](Assets/PCB_Back_View.png)
+
 •	**Verification & DFM (Design for Manufacturing):**
 o	Managed complex layout tasks under strict spatial constraints.
 o	Performed comprehensive DRC (Design Rule Check) suites to ensure 100% netlist connectivity and clearance compliance.
